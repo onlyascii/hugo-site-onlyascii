@@ -1,0 +1,3 @@
+[submodule "themes/onlyascii"]
+	path = themes/onlyascii
+	url = https://github.com/onlyascii/hugo-theme-onlyascii.git
